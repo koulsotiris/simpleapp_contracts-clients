@@ -1,0 +1,73 @@
+SERVICE_LIST
+{
+	SERVICE
+	{
+		SERVICE_NAME "Mobile Internet 1"
+		TYPE MobileInternet
+		PRICE 10
+		DATA 10
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Mobile Internet 2"
+		TYPE MobileInternet
+		PRICE 15
+		DATA 15
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Mobile Internet 3"
+		TYPE MobileInternet
+		PRICE 20
+		DATA 20
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Contract Program 1"
+		TYPE ContractProgram
+		PRICE 7
+		MINUTES 150
+		SMS 150
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Contract Program 2"
+		TYPE ContractProgram
+		PRICE 10
+		MINUTES 300
+		SMS 300
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Contract Program 3"
+		TYPE ContractProgram
+		PRICE 13
+		MINUTES 1000
+		SMS 1000
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Card Program 1"
+		TYPE CardContractProgram
+		PRICE 10
+		MINUTES 1500
+		SMS 50
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Card Program 2"
+		TYPE CardContractProgram
+		PRICE 15
+		MINUTES 3200
+		SMS 100
+	}
+	SERVICE
+	{
+		SERVICE_NAME "Card Program 3"
+		TYPE CardContractProgram
+		PRICE 20
+		MINUTES 7000
+		SMS 150
+	}
+}
+	
